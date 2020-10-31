@@ -1,3 +1,6 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6c2dc1df-8b7f-4772-80cc-0d8c45a9e63b/deploy-status)](https://app.netlify.com/sites/hdhitesh/deploys)
+
+
 ### Hi Guys, Hitesh here 👋  
 ### :sparkles: One line that describes me best?
 
