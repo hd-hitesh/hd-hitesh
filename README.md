@@ -33,7 +33,7 @@ Recently, I am much involved in the Test Automation.
 
 ### 📫 How to reach me?
 
-<a href="https://www.linkedin.com/in/hitesh-sahu-8569501a1/">
+<a href="https://www.linkedin.com/in/hdhitesh/">
  <img align="left" alt="HItesh's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
