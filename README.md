@@ -11,7 +11,7 @@ I am self taught programmer, trying to explore the depths of technologies.
 
 ### 🌱 What I’m currently learning?
 
-Recently, I am much involved in the MERN stack.
+Recently, I am much involved in the Test Automation.
 
 ### 📶 Stats:
 
